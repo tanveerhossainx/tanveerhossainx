@@ -27,10 +27,10 @@ I'm a passionate programmer based in London. Welcome to my GitHub profile! Here,
 ## My GitHub Stats
 
 <a href="https://github.com/tanveerhossainx/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerhossainx&show_icons=true&theme=neon" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerhossainx&show_icons=true&theme=outrun" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerhossainx&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=neon" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerhossainx&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=outrun" />
 </a>
 
 <!--
