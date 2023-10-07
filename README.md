@@ -21,12 +21,20 @@ I'm a passionate programmer based in London. Welcome to my GitHub profile! Here,
 
 - 🌍 I'm from London, Italy and Bangladesh.
 - 🎓 I studied Business Computing at Goldsmiths, University of London.
-- 💡 I'm passionate about Teck, Geo politics, and travelling.
+- 💡 I'm passionate about Tech, Geo politics, and travelling.
 - 📚 I'm constantly learning and exploring new technologies.
 
 ## My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanveerhossainx&show_icons=true&theme=dark)
+
+
+<a href="https://github.com/tanveerhossainx/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerhossainx" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerhossainx&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 ## Skills
