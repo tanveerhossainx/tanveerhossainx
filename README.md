@@ -19,8 +19,8 @@ I'm a passionate programmer based in London. Welcome to my GitHub profile! Here,
 
 ## About Me
 
-- 🌍 I'm from London, Italy and Bangladesh.
-- 🎓 I studied Business Computing at Goldsmiths, University of London.
+- 🌍 I'm from London 🇬🇧, Italy 🇮🇹 and Bangladesh 🇧🇩.
+- 🎓 I studied BSc (Hons) Business Computing (Entrepreneurship) at Goldsmiths, University of London.
 - 💡 I'm passionate about Tech, Geo politics, and travelling.
 - 📚 I'm constantly learning and exploring new technologies.
 
