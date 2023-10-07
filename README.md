@@ -30,7 +30,7 @@ I'm a passionate programmer based in London. Welcome to my GitHub profile! Here,
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerhossainx&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerhossainx&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=algolia" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerhossainx&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=vision-friendly-dark" />
 </a>
 
 <!--
