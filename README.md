@@ -26,14 +26,11 @@ I'm a passionate programmer based in London. Welcome to my GitHub profile! Here,
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanveerhossainx&show_icons=true&theme=dark)
-
-
 <a href="https://github.com/tanveerhossainx/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerhossainx&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerhossainx&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerhossainx&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerhossainx&layout=compact&langs_count=8&card_width=320&show_icons=true&highcontrast" />
 </a>
 
 <!--
