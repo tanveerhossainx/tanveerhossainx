@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tanveerhossainx/tanveerhossainx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,8 +19,7 @@ I'm a passionate programmer based in London. Welcome to my GitHub profile! Here,
 
 ## About Me
 
-- 🌍 I'm from London.
-- 💼 I work at [Your Company/Institution] as a [Your Position].
+- 🌍 I'm from London, Italy and Bangladesh.
 - 🎓 I studied Business Computing at Goldsmiths, University of London.
 - 💡 I'm passionate about Teck, Geo politics, and travelling.
 - 📚 I'm constantly learning and exploring new technologies.
@@ -31,6 +28,7 @@ I'm a passionate programmer based in London. Welcome to my GitHub profile! Here,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanveerhossainx&show_icons=true&theme=dark)
 
+<!--
 ## Skills
 
 - 💻 Programming Languages: [Languages You're Proficient In]
@@ -51,6 +49,8 @@ Here are some of the projects I've worked on:
 4. [Project Name](Link to Project Repository): Short project description.
 
 Feel free to explore my repositories for more!
+
+-->
 
 ## Connect with Me
 
