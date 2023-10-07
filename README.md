@@ -14,3 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Tanveer 👋
+
+I'm a passionate programmer based in London. Welcome to my GitHub profile! Here, you'll find some of my projects and contributions.
+
+## About Me
+
+- 🌍 I'm from London.
+- 💼 I work at [Your Company/Institution] as a [Your Position].
+- 🎓 I studied Business Computing at Goldsmiths, University of London.
+- 💡 I'm passionate about Teck, Geo politics, and travelling.
+- 📚 I'm constantly learning and exploring new technologies.
+
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanveerhossainx&show_icons=true&theme=dark)
+
+## Skills
+
+- 💻 Programming Languages: [Languages You're Proficient In]
+- 🛠️ Technologies: [Technologies/Frameworks You Work With]
+- 📊 Data Analysis: [Tools/Software for Data Analysis]
+- 🌐 Web Development: [Frontend and Backend Technologies]
+- 📱 Mobile App Development: [Mobile App Development Tools]
+- 🖥️ Desktop Applications: [Technologies for Desktop Apps]
+- 🚀 Other Skills: [Any Additional Skills]
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. [Project Name](Link to Project Repository): Short project description.
+2. [Project Name](Link to Project Repository): Short project description.
+3. [Project Name](Link to Project Repository): Short project description.
+4. [Project Name](Link to Project Repository): Short project description.
+
+Feel free to explore my repositories for more!
+
+## Connect with Me
+
+- 📧 Email: tanveer.hossain.career@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/tanveer-h/
+- 🐦 Twitter: https://twitter.com/TanveerHossainX
+
+Let's connect and collaborate! 😄
+
